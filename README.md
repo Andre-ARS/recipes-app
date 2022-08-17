@@ -8,14 +8,14 @@ Este projeto foi o último do módulo de front-end no curso da Trybe, e foi feit
 
 Front-end:
 
-> Desenvolvido usando: React, CSS3, HTML5, JavaScriptES6,
+> Desenvolvido usando: React, CSS3, HTML5, JavaScriptES6, Context.API
 
 ## Testando Localmente
 
 > Clone o Repositório
 
 ```bash
-git clone git@github.com:Andre-ARS/solar-system.git
+git clone git@github.com:Andre-ARS/recipes-app.git
 ```
 
 > Dentro do diretório do projeto, instale as dependencias
